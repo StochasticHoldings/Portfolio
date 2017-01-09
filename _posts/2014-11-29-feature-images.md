@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Feature images
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/BB.png"
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+Bullbuster Brand Direct, Inc. uses its brand direct business model which intersects passion and technology to help serious fishermen spend more time fishing.  Save time and money buy buying your fishing line directly from the factory with no middle men and join anglers from around the country in the Bullbuster Community to make a commitment to spending more time fishing. 
