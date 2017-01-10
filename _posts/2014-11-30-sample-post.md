@@ -1,21 +1,28 @@
 ---
 layout: post
-title: Sample post
+title: What We Stand For
 ---
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
+![Stochastic](http://127.0.0.1:4000/img/What_We_Stand_for/Stochastic.jpg)
 
-* Consectetur adipiscing elit
-* Donec a diam lectus
-* Sed sit amet ipsum mauris
+## We Embrace Randomness...Take Aim... Invent Tools
+Stochastic comes from the greek word stokhos,meaning "aim" [See Wiki](https://en.wikipedia.org/wiki/Stochastic). In modern lexicon it is used to describe randomness. When one aims at a target, there are many possible outcomes for each attempted shot.  **Stochastic Holdings, Inc.** embraces the concept of randomness as a part of life (much like change).  We believe that it is not as important to hit your target in the bullseye everytime, but it is important to take aim, and to hone your abilities using the best tools available.  If the tools do not exist, they must be invented.
 
-Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
+### A Philosophy
+![Stochastic](http://127.0.0.1:4000/img/What_We_Stand_for/Sailing_Ship.jpg)
 
-Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula *semper consectetur sagittis*, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.
+[Sailing Ship By EranFolio](http://eranfolio.deviantart.com/art/After-the-Storm-377255762)
 
-Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.
+Colby Uva, Stochastic Holding, Inc's president received a present from his late grandfather on the day of his high school graduation.  The present was a poem, a poem that can be seen as a metaphor for the Stochastic Philosophy.
 
-> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
+**"*...One ship sails East,
+And another West,
+By the self-same winds that blow,
+'Tis the set of the sails
+And not the gales,
+That tells the way we go...*"**
 
-Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.
+-Ela Wheeler Willcox
 
-Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
+### A Collision Of Passion & Technology
+
+![Stochastic](http://127.0.0.1:4000/img/What_We_Stand_For/Passion&Tech.jpg)

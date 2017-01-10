@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Feature images
+title: When Inspiration Takes Aim
 feature-img: "img/BB.png"
 ---
-Bullbuster Brand Direct, Inc. uses its brand direct business model which intersects passion and technology to help serious fishermen spend more time fishing.  Save time and money buy buying your fishing line directly from the factory with no middle men and join anglers from around the country in the Bullbuster Community to make a commitment to spending more time fishing. 
+There are so many tools that exist in todays world that it can be overwhelming.
+Some tools are game changing, some are useful, many are re-used, most are garbage.
+So what is the difference between the game changers and the garbage. We believe
+that game changers come from passion and that passion is when inspiration takes aim.
